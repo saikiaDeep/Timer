@@ -1,2 +1,2 @@
 # EggTimer
-Timer app
+Countdown timer example
